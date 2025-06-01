@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Welcome to my Github
 
-<!--
-**FabioBenjamin/FabioBenjamin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Fabio Benjamin, I am 16 years old and I study at IFSP, I am currently in the 2nd year and I am passionate about technology and I always seek to learn and get to know the technological world better.
 
-Here are some ideas to get you started:
+# 🌐 Socials
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Instagram](https://img.shields.io/badge/Instagram-FF0069?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/fabioxcz_/)   [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:fabiobenjoliveira@gmail.com)
+
+
+# 🖥️ Tech Stack
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Fabio-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Fabio-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Fabio-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Fabio-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">  
+</div>
+
+# 📊 GitHub Stats
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FabioBenjamin&show_icons=true&theme=transparent)
+
+![Github Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=FabioBenjamin&theme=transparent)
