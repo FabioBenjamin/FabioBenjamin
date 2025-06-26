@@ -4,7 +4,7 @@ My name is Fabio Benjamin, I am 16 years old and I study at IFSP, I am currently
 
 # 🌐 Socials
 
-[![Instagram](https://img.shields.io/badge/Instagram-FF0069?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/fabioxcz_/)   [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:fabiobenjoliveira@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-FF0069?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/fabioxcz_/)   [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:fabiobenjoliveira@gmail.com) [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabio-benjamin-oliveira-635365348/)
 
 
 # 🖥️ Tech Stack
