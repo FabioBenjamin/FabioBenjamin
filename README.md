@@ -10,14 +10,15 @@ My name is Fabio Benjamin, I am 17 years old and I study at IFSP, I am currently
 # 🖥️ Tech Stack
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Fabio-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Fabio-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Fabio-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Fabio-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">  
+  <img align="center" alt="Fabio-Js" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Fabio-Python" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Fabio-Java" height="50" width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png">
+  <img align="center" alt="Fabio-MySQL" height="50" width="50" src="https://github.com/user-attachments/assets/9a06c4ad-5dd1-445a-9120-673dc293c93e">
+  <img align="center" alt="Fabio-Figma" height="50" width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/figma.png">
+  <img align="center" alt="Fabio-GitHub" height="50" width="50" src="https://github.com/user-attachments/assets/9b4c5167-1f87-49c4-9a92-e436926d81a1">
 </div>
 
 # 📊 GitHub Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FabioBenjamin&show_icons=true&theme=transparent)
-
 ![Github Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=FabioBenjamin&theme=transparent)
+
