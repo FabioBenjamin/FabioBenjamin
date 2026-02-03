@@ -1,6 +1,6 @@
 # 👋 Welcome to my Github
 
-My name is Fabio Benjamin, I am 17 years old and I study at IFSP, I am currently in the 3nd year and I am passionate about technology and I always seek to learn and get to know the technological world better.
+My name is Fabio Benjamin, I’m 17 years old, and I study at IFSP, currently in my third year. I am passionate about technology and always strive to learn more and explore the world of technology in depth.
 
 # 🌐 Socials
 
@@ -20,10 +20,28 @@ My name is Fabio Benjamin, I am 17 years old and I study at IFSP, I am currently
 
 # 📊 GitHub Stats
 
-![Github Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=FabioBenjamin&theme=transparent)
+<div>
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FabioBenjamin&theme=tokyonight" 
+    height="180"
+  />
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=FabioBenjamin&theme=tokyonight" 
+    height="180"
+  />
+</div>
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=FabioBenjamin&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/FabioBenjamin/FabioBenjamin/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/FabioBenjamin/FabioBenjamin/output/github-contribution-grid-snake.svg">
+    <img alt="Animação da cobrinha das contribuições do GitHub"
+      src="https://raw.githubusercontent.com/FabioBenjamin/FabioBenjamin/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
 
