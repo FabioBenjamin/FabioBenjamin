@@ -1,6 +1,6 @@
 # 👋 Welcome to my Github
 
-My name is Fabio Benjamin, I’m 17 years old, and I study at IFSP, currently in my third year. I am passionate about technology and always strive to learn more and explore the world of technology in depth.
+My name is <strong>Fabio Benjamin</strong>, I’m 17 years old, and I study at IFSP, currently in my third year. I am passionate about technology and always strive to learn more and explore the world of technology in depth.
 
 # 🌐 Socials
 
@@ -18,22 +18,30 @@ My name is Fabio Benjamin, I’m 17 years old, and I study at IFSP, currently in
   <img align="center" alt="Fabio-GitHub" height="50" width="50" src="https://github.com/user-attachments/assets/9b4c5167-1f87-49c4-9a92-e436926d81a1">
 </div>
 
+
+<div align="center">
+
 # 📊 GitHub Stats
 
-<div>
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FabioBenjamin&theme=tokyonight" 
-    height="180"
-  />
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=FabioBenjamin&theme=tokyonight" 
-    height="180"
-  />
+<img 
+  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FabioBenjamin&theme=tokyonight" 
+  height="180"
+  style="margin-right:10px;"
+/>
+<img 
+  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=FabioBenjamin&theme=tokyonight" 
+  height="180"
+/>
+
+<br>
+
+# 🔝 Top Contributed Repository
+<img src="https://github-contributor-stats.vercel.app/api?username=FabioBenjamin&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repos" />
+
 </div>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=FabioBenjamin&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+<!-- Cobrinha de contribuições -->
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)"
@@ -44,4 +52,3 @@ My name is Fabio Benjamin, I’m 17 years old, and I study at IFSP, currently in
       src="https://raw.githubusercontent.com/FabioBenjamin/FabioBenjamin/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
-
