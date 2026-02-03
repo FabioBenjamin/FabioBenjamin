@@ -22,3 +22,8 @@ My name is Fabio Benjamin, I am 17 years old and I study at IFSP, I am currently
 
 ![Github Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=FabioBenjamin&theme=transparent)
 
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=FabioBenjamin&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+
+
