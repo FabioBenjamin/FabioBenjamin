@@ -28,6 +28,11 @@ My name is <strong>Fabio Benjamin</strong>, I’m 17 years old, and I study at I
   height="180"
   style="margin-right:10px;"
 />
+
+<img 
+  src="https://streak-stats.demolab.com?user=FabioBenjamin&theme=tokyonight&hide_border=true&locale=pt_BR" alt="GitHub Streak"
+/>
+
 <img 
   src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=FabioBenjamin&theme=tokyonight" 
   height="180"
@@ -36,7 +41,6 @@ My name is <strong>Fabio Benjamin</strong>, I’m 17 years old, and I study at I
 <br>
 
 # 🔝 Top Contributed Repository
-<img src="https://github-contributor-stats.vercel.app/api?username=FabioBenjamin&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repos" />
 
 </div>
 
