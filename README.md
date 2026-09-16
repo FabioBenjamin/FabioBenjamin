@@ -1,6 +1,6 @@
 # 👋 Welcome to my Github
 
-My name is <strong>Fabio Benjamin</strong>, I’m 17 years old, and I study at IFSP, currently in my third year. I am passionate about technology and always strive to learn more and explore the world of technology in depth.
+My name is <strong>Fabio Benjamin</strong>, I’m 18 years old, and I study at IFSP, currently in my third year. I am passionate about technology and always strive to learn more and explore the world of technology in depth.
 
 # 🌐 Socials
 
