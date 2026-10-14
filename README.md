@@ -1,7 +1,7 @@
 # 👋 Welcome to my Github
 
-My name is <strong>Fabio Benjamin Oliveira</strong>, I’m 18 years old, and I study at IFSP, currently in my third year. I am passionate about technology and always strive to learn more and explore the world of technology in depth.
-
+My name is <strong>Fabio Benjamin Oliveira</strong>, I am 18 years old and currently in my third year of an integrated high school and technical program at IFSP. I am passionate about technology and always eager to learn more and explore this field in depth.
+I am seeking employment in the area I intend to pursue as a career: database analysis.
 # 🌐 Socials
 
 [![Instagram](https://img.shields.io/badge/Instagram-FF0069?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/fabioxcz_/)   [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:fabiobenjoliveira@gmail.com) [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabio-benjamin-oliveira)
@@ -16,15 +16,16 @@ My name is <strong>Fabio Benjamin Oliveira</strong>, I’m 18 years old, and I s
 
 # 📊 GitHub Stats
 
-<img 
-  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FabioBenjamin&theme=tokyonight" 
-  height="180"
-  style="margin-right:10px;"
-/>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FabioBenjamin&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabioBenjamin&layout=compact&langs_count=8&theme=midnight-purple"/>
+</div>
 
-<img 
-  src="https://streak-stats.demolab.com?user=FabioBenjamin&theme=tokyonight&hide_border=true&locale=pt_BR" alt="GitHub Streak"
-/>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FabioBenjamin&theme=midnight-purple" alt="GitHub Streak"/>
+</div>
+
+---
 
 <br>
 
