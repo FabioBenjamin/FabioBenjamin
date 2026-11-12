@@ -9,7 +9,36 @@ I am seeking employment in the area I intend to pursue as a career: database ana
 
 # 🖥️ Tech Stack
 
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" /> [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)]()  [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()  [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)]()  [![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)]()  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)]() [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)]() [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)]() 
+
+
+<div align="center">
+
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <h3>⚙️ Backend</h3>
+        <img src="https://skillicons.dev/icons?i=java,spring,kotlin,python,flask" />
+      </td>
+      <td align="center" width="50%">
+        <h3>💻 Frontend</h3>
+        <img src="https://skillicons.dev/icons?i=html,css,js,react,androidstudio" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <h3>🛠️ Tools & Technologies</h3>
+        <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman,figma,linux" />
+      </td>
+      <td align="center">
+        <h3>🗄️ Database</h3>
+        <img src="https://skillicons.dev/icons?i=mysql,postgresql" />
+      </td>
+    </tr>
+  </table>
+
+</div>
+
+
 
 
 <div align="center">
@@ -17,8 +46,8 @@ I am seeking employment in the area I intend to pursue as a career: database ana
 # 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FabioBenjamin&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabioBenjamin&layout=compact&langs_count=8&theme=midnight-purple"/>
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FabioBenjamin&theme=midnight_purple" alt="Profile Details" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=FabioBenjamin&theme=midnight_purple" alt="Most Commit Language" />
 </div>
 
 <div align="center">
