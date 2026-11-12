@@ -47,12 +47,12 @@ I am seeking employment in the area I intend to pursue as a career: database ana
 # 📊 GitHub Stats
 
 <div align="center">
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FabioBenjamin&theme=midnight_purple" alt="Profile Details" />
   <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=FabioBenjamin&theme=midnight_purple" alt="Most Commit Language" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FabioBenjamin&theme=midnight-purple" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FabioBenjamin&theme=midnight-purple" alt="GitHub Streak"/>
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FabioBenjamin&theme=midnight_purple" alt="Profile Details" />
 </div>
 
 ---
