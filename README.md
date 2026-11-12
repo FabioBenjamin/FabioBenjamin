@@ -48,6 +48,9 @@ I am seeking employment in the area I intend to pursue as a career: database ana
 
 <div align="center">
   <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=FabioBenjamin&theme=midnight_purple" alt="Most Commit Language" />
+</div>
+
+<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=FabioBenjamin&theme=midnight-purple" alt="GitHub Streak"/>
 </div>
 
