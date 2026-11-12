@@ -2,14 +2,18 @@
 
 My name is <strong>Fabio Benjamin Oliveira</strong>, I am 18 years old and currently in my third year of an integrated high school and technical program at IFSP. I am passionate about technology and always eager to learn more and explore this field in depth.
 I am seeking employment in the area I intend to pursue as a career: database analysis.
+
 # 🌐 Socials
 
-[![Instagram](https://img.shields.io/badge/Instagram-FF0069?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/fabioxcz_/)   [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:fabiobenjoliveira@gmail.com) [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabio-benjamin-oliveira)
+<div align="center">
 
+  [![Instagram](https://img.shields.io/badge/Instagram-FF0069?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fabioxcz_/)
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fabiobenjoliveira@gmail.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabio-benjamin-oliveira)
+
+</div>
 
 # 🖥️ Tech Stack
-
-
 
 <div align="center">
 
@@ -37,9 +41,6 @@ I am seeking employment in the area I intend to pursue as a career: database ana
   </table>
 
 </div>
-
-
-
 
 <div align="center">
 
