@@ -7,7 +7,7 @@ I am seeking employment in the area I intend to pursue as a career: database ana
 
 <div align="center">
 
-  [![Instagram](https://img.shields.io/badge/Instagram-FF0069?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fabioxcz_/)
+  [![Instagram](https://img.shields.io/badge/Instagram-FF0069?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/benjxcz__/)
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fabiobenjoliveira@gmail.com)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabio-benjamin-oliveira)
 
